@@ -13,6 +13,7 @@
 		"core-js": "^3.6.4",
 		"express": "^4.17.1",
 		"moment": "^2.24.0",
+		"server-static": "^2.0.5",
 		"vue-graph": "^0.8.7"
 	},
 	"devDependencies": {
